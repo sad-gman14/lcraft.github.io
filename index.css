@@ -1,0 +1,16 @@
+body {
+    background-color: lightgreen;
+}
+
+#logo {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+#button-text {
+    font-size: 10px;
+}
+
+#button {
+    background-color: white;
+}
